@@ -18,12 +18,12 @@ Beginning from 08/2025 I will update all libraries step by step and mark them in
 | Library  | Version |
 | - | - |
 | ComposeColors | `1.0.1`  |
+| ComposeDebugDrawer | `1.0.1`  |
 
 ### TODO
 
 * ComposeChangelog
 * ComposePreferences
-* ComposeDebugDrawer
 * ComposeDialogs
 * ComposeThemer
 
