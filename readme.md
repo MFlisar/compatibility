@@ -8,18 +8,18 @@ Beginning from 08/2025 I will update all libraries step by step and mark them in
 
 **Core Libraries**
 
-| Library  | Version |
-| - | - |
-| Lumberjack | `8.0.0`  |
-| KotPreferences | `1.0.3`  |
+| Library  | Version | Link |
+| - | - | - |
+| Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ |
+| KotPreferences | `1.0.3`  | https://mflisar.github.io/KotPreferences/ |
 
 **Compose**
 
-| Library  | Version |
-| - | - |
-| ComposeColors | `1.0.1`  |
-| ComposeDebugDrawer | `1.0.1`  |
-| ComposeChangelog | `2.0.1` |
+| Library  | Version | Link |
+| - | - | - |
+| ComposeColors | `1.0.1`  | https://mflisar.github.io/ComposeColors/ |
+| ComposeDebugDrawer | `1.0.1`  | https://mflisar.github.io/ComposeDebugDrawer/ |
+| ComposeChangelog | `2.0.1` | https://mflisar.github.io/ComposeChangelog/ |
 
 ### TODO
 
