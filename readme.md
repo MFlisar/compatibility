@@ -19,7 +19,7 @@ Beginning from 08/2025 I will update all libraries step by step and mark them in
 | - | - |
 | ComposeColors | `1.0.1`  |
 | ComposeDebugDrawer | `1.0.1`  |
-| ComposeChangelog | `2.0.0` |
+| ComposeChangelog | `2.0.1` |
 
 ### TODO
 
