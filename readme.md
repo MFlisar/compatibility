@@ -20,12 +20,12 @@ Beginning from 08/2025 I will update all libraries step by step and mark them in
 | ComposeColors | `1.0.1`  | https://mflisar.github.io/ComposeColors/ |
 | ComposeDebugDrawer | `1.0.1`  | https://mflisar.github.io/ComposeDebugDrawer/ |
 | ComposeChangelog | `2.0.1` | https://mflisar.github.io/ComposeChangelog/ |
+| ComposeThemer | `1.0.1` | https://mflisar.github.io/ComposeThemer/ |
 
 ### TODO
 
 * ComposePreferences
 * ComposeDialogs
-* ComposeThemer
 
 It is save to use my compose libraries together with newer the ones above if they do not depend on them or if you do not use the modules that do depend on them!
 
