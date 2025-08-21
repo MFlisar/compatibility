@@ -31,14 +31,9 @@ Beginning from **08/2025** I will update all libraries step by step and mark the
 | ComposeChangelog | `2.0.1` | https://mflisar.github.io/ComposeChangelog/ |
 | ComposeThemer | `1.0.1` | https://mflisar.github.io/ComposeThemer/ |
 | ComposeDialogs | `2.3.0` | https://mflisar.github.io/ComposeDialogs/ |
+| ComposePreferences | `1.3.0` | https://mflisar.github.io/ComposePreferences/ |
 
 Above mentioned versions are the **minimum versions** that are compatible with each other.
-
-### TODO
-
-* ComposePreferences
-
-It is save to use my compose libraries together with newer the ones above if they do not depend on them or if you do not use the modules that do depend on them!
 
 ### FINISH DATE
 
