@@ -43,3 +43,9 @@ It is save to use my compose libraries together with newer the ones above if the
 ### FINISH DATE
 
 My goal is to get this done in the next 2 weeks at most!
+
+### Experimental
+
+**Why do some libraries use experimental functions?**
+
+Mostly I do use the compose `BackHandler` and the the `kotlinx.datetime.Clock` class. Both are currently still marked as experimental. I need both to support all the platforms so I do use those...
