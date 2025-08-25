@@ -27,7 +27,7 @@ Here are the minimum versions that do work with each other without problems.
 
 | Library  | Version | Link |
 | - | - | - |
-| KotBilling | `0.8.1`  | https://mflisar.github.io/Lumberjack/ |
+| KotBilling | `0.8.1`  | https://mflisar.github.io/KotBilling/ |
 | KotPreferences | `1.0.3`  | https://mflisar.github.io/KotPreferences/ |
 | Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ |
 
