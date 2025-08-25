@@ -20,7 +20,7 @@ Here are the minimum versions that do work with each other without problems.
 
 | Library  | Minimum Version | Link | Latest Version |
 | - | - | - | - |
-| CacheFileProvider | `2.0.0`  | https://mflisar.github.io/CacheFileProvider/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library) |
+| CacheFileProvider | `1.0.0`  | https://mflisar.github.io/CacheFileProvider/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library) |
 | FeedbackManager | `3.0.0`  | https://mflisar.github.io/FeedbackManager/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.feedbackmanager/library) |
 
 **Libraries**
