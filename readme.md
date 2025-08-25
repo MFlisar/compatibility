@@ -39,8 +39,8 @@ Here are the minimum versions that do work with each other without problems.
 | [ComposeDebugDrawer](https://mflisar.github.io/ComposeDebugDrawer/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core) | - `plugin-kotpreferences` artifact depends on `KotPreferences`<br/>- `plugin-lumberjack` artifact depends on `Lumberjack` |
 | [ComposeChangelog](https://mflisar.github.io/ComposeChangelog/) | `3.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composechangelog/core) | - `statesaver-kotpreferences` artifact depends on `KotPreferences` |
 | [ComposeThemer](https://mflisar.github.io/ComposeThemer/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composethemer/core) | |
-| [ComposeDialogs](https://mflisar.github.io/ComposeDialogs/) | `3.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedialogs/core) | `dialog-billing` artifact depends on `KotBilling` |
-| [ComposePreferences](https://mflisar.github.io/ComposePreferences/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composepreferences/core) | |
+| [ComposeDialogs](https://mflisar.github.io/ComposeDialogs/) | `3.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedialogs/core) | - `dialog-billing` artifact depends on `KotBilling` |
+| [ComposePreferences](https://mflisar.github.io/ComposePreferences/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composepreferences/core) | library depends on `ComposeDialogs`<br/>- `kotpreferences` artifact depends on `KotPreferences` |
 
 > [!IMPORTANT]  
 > Above mentioned versions are the **minimum versions** that are compatible with each other. From there on I try to make new versions **binary compatible** - so any newer versions will work with each other without problems.
