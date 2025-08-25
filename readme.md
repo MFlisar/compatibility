@@ -35,12 +35,12 @@ Here are the minimum versions that do work with each other without problems.
 
 | Library  | Version | Link |
 | - | - | - |
-| ComposeColors | `1.0.0`  | https://mflisar.github.io/ComposeColors/ |
-| ComposeDebugDrawer | `2.0.0`  | https://mflisar.github.io/ComposeDebugDrawer/ |
-| ComposeChangelog | `2.0.0` | https://mflisar.github.io/ComposeChangelog/ |
-| ComposeThemer | `1.0.0` | https://mflisar.github.io/ComposeThemer/ |
-| ComposeDialogs | `3.0.0` | https://mflisar.github.io/ComposeDialogs/ |
-| ComposePreferences | `2.0.0` | https://mflisar.github.io/ComposePreferences/ |
+| ComposeColors | `1.0.0`  | https://mflisar.github.io/ComposeColors/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/core?color=blue) |
+| ComposeDebugDrawer | `2.0.0`  | https://mflisar.github.io/ComposeDebugDrawer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core?color=blue) |
+| ComposeChangelog | `2.0.0` | https://mflisar.github.io/ComposeChangelog/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composechangelog/core?color=blue) |
+| ComposeThemer | `1.0.0` | https://mflisar.github.io/ComposeThemer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composethemer/core?color=blue) |
+| ComposeDialogs | `3.0.0` | https://mflisar.github.io/ComposeDialogs/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedialogs/core?color=blue) |
+| ComposePreferences | `2.0.0` | https://mflisar.github.io/ComposePreferences/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composepreferences/core?color=blue) |
 
 > [!IMPORTANT]  
 > Above mentioned versions are the **minimum versions** that are compatible with each other. From there on I try to make new versions **binary compatible** - so any newer versions will work with each other without problems.
