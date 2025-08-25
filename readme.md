@@ -8,6 +8,10 @@ ALL my main libraries have been updated to support following KMP targets:
 * `macos`
 * `wasm`
 
+### Binary Compatibility
+
+I do try to keep versions binary compatible as long as possible now - non major versions will be binary compatible!
+
 ### Libraries
 
 Here are the minimum versions that do work with each other without problems.
