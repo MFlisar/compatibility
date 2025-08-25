@@ -18,8 +18,8 @@ Here are the minimum versions that do work with each other without problems.
 
 **UTILITIES**
 
-| Library  | Version | Link |
-| - | - | - |
+| Library  | Version | Link | Latest Version |
+| - | - | - | - |
 | CacheFileProvider | `1.0.0`  | https://mflisar.github.io/CacheFileProvider/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library?color=blue) |
 | FeedbackManager | `3.0.0`  | https://mflisar.github.io/FeedbackManager/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.feedbackmanager/library?color=blue) |
 
