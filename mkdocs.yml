@@ -111,4 +111,4 @@ extra_css:
 # nav
 nav:
   - Compatibility: compatibility.md
-  - Binary Compatibility: binary-compatibility.md
+  #- Binary Compatibility: binary-compatibility.md
