@@ -25,11 +25,11 @@ Here are the minimum versions that do work with each other without problems.
 
 **Libraries**
 
-| Library  | Version | Link |
-| - | - | - |
-| KotBilling | `2.0.0`  | https://mflisar.github.io/KotBilling/ |
-| KotPreferences | `2.0.0`  | https://mflisar.github.io/KotPreferences/ |
-| Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ |
+| Library  | Minimum Version | Link | Latest Version |
+| - | - | - | - |
+| KotBilling | `2.0.0`  | https://mflisar.github.io/KotBilling/ | https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library?color=blue |
+| KotPreferences | `2.0.0`  | https://mflisar.github.io/KotPreferences/ | https://img.shields.io/maven-central/v/io.github.mflisar.kotpreferences/core?color=blue |
+| Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ | https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core?color=blue |
 
 **Compose**
 
