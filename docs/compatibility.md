@@ -1,6 +1,4 @@
 ---
-icon: material/information-variant
-title: Compatibility
 ---
 
 ALL my main libraries have been updated to support following KMP targets:
@@ -10,10 +8,6 @@ ALL my main libraries have been updated to support following KMP targets:
 * `ios`
 * `macos`
 * `wasm`
-
-## Binary Compatibility
-
-I do try to keep versions binary compatible as long as possible now - non major versions will be binary compatible!
 
 ## Libraries
 
