@@ -18,7 +18,7 @@ Here are the minimum versions that do work with each other without problems.
 
 **UTILITIES**
 
-| Library  | Version | Link | Latest Version |
+| Library  | Minimum Version | Link | Latest Version |
 | - | - | - | - |
 | CacheFileProvider | `2.0.0`  | https://mflisar.github.io/CacheFileProvider/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library) |
 | FeedbackManager | `3.0.0`  | https://mflisar.github.io/FeedbackManager/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.feedbackmanager/library) |
@@ -33,7 +33,7 @@ Here are the minimum versions that do work with each other without problems.
 
 **Compose**
 
-| Library  | Version | Link | Latest Version |
+| Library  | Minimum Version | Link | Latest Version |
 | - | - | - | - |
 | ComposeColors | `1.0.0`  | https://mflisar.github.io/ComposeColors/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/coree) |
 | ComposeDebugDrawer | `2.0.0`  | https://mflisar.github.io/ComposeDebugDrawer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core) |
