@@ -20,9 +20,6 @@ jobs:
 
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
 
-      - name: Make gradlew executable
-        run: chmod +x gradlew
-
       - name: Setup cache
         uses: actions/cache@v4
         with:
