@@ -20,14 +20,14 @@ Here are the minimum versions that do work with each other without problems.
 
 | Library  | Version | Link |
 | - | - | - |
-| CacheFileProvider | `1.0.0`  | https://mflisar.github.io/CacheFileProvider/ |
-| FeedbackManager | `3.0.0`  | https://mflisar.github.io/FeedbackManager/ |
+| CacheFileProvider | `1.0.0`  | https://mflisar.github.io/CacheFileProvider/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library?color=blue) |
+| FeedbackManager | `3.0.0`  | https://mflisar.github.io/FeedbackManager/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.feedbackmanager/library?color=blue) |
 
 **Libraries**
 
 | Library  | Minimum Version | Link | Latest Version |
 | - | - | - | - |
-| KotBilling | `2.0.0`  | https://mflisar.github.io/KotBilling/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library?color=blue) |
+| KotBilling | `2.0.0`  | https://mflisar.github.io/KotBilling/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotbilling/library?color=blue) |
 | KotPreferences | `2.0.0`  | https://mflisar.github.io/KotPreferences/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotpreferences/core?color=blue) |
 | Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core?color=blue) |
 
