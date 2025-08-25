@@ -36,7 +36,7 @@ Here are the minimum versions that do work with each other without problems.
 | Library  | Minimum Version  | Latest Version | Info |
 | - | - | - | - |
 | [ComposeColors](https://mflisar.github.io/ComposeColors/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/core) | - |
-| [ComposeDebugDrawer](https://mflisar.github.io/ComposeDebugDrawer/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core) | kotpreferences module depends on `KotPreferences`<br/>lumberjack module depends on `Lumberjack` |
+| [ComposeDebugDrawer](https://mflisar.github.io/ComposeDebugDrawer/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core) | - kotpreferences module depends on `KotPreferences`<br/>- lumberjack module depends on `Lumberjack` |
 | [ComposeChangelog](https://mflisar.github.io/ComposeChangelog/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composechangelog/core) | |
 | [ComposeThemer](https://mflisar.github.io/ComposeThemer/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composethemer/core) | |
 | [ComposeDialogs](https://mflisar.github.io/ComposeDialogs/) | `3.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedialogs/core) | |
