@@ -12,12 +12,20 @@ ALL my main libraries have been updated to support following KMP targets:
 
 Here are the minimum versions that do work with each other without problems.
 
-**Core Libraries**
+**UTILITIES**
 
 | Library  | Version | Link |
 | - | - | - |
-| Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ |
+| CacheFileProvider | `0.4.0`  | https://mflisar.github.io/CacheFileProvider/ |
+| FeedbackManager | `2.1.0`  | https://mflisar.github.io/FeedbackManager/ |
+
+**Libraries**
+
+| Library  | Version | Link |
+| - | - | - |
+| KotBilling | `0.8.1`  | https://mflisar.github.io/Lumberjack/ |
 | KotPreferences | `1.0.3`  | https://mflisar.github.io/KotPreferences/ |
+| Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ |
 
 **Compose**
 
