@@ -39,7 +39,7 @@ Here are the minimum versions that do work with each other without problems.
 | ComposePreferences | `1.3.0` | https://mflisar.github.io/ComposePreferences/ |
 
 > [!IMPORTANT]  
-> Above mentioned versions are the **minimum versions** that are compatible with each other.
+> Above mentioned versions are the **minimum versions** that are compatible with each other. From there on I try to make new versions **binary compatible** - so any newer versions will work with each other without problems.
 
 ## NOTES
 
