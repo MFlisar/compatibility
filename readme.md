@@ -29,7 +29,7 @@ Here are the minimum versions that do work with each other without problems.
 | - | - | - | - |
 | [KotBilling](https://mflisar.github.io/KotBilling/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotbilling/library) | - |
 | [KotPreferences](https://mflisar.github.io/KotPreferences/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotpreferences/core) | - |
-| [Lumberjack](https://mflisar.github.io/Lumberjack/) | `8.0.0`| ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core) | feedback module depends on `FeedbackManager` |
+| [Lumberjack](https://mflisar.github.io/Lumberjack/) | `9.0.0`| ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core) | feedback module depends on `FeedbackManager` |
 
 **Compose**
 
