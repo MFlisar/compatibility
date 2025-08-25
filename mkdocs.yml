@@ -92,8 +92,8 @@ plugins:
   #- optimize
   #- privacy
   #- typeset
-  - macros:
-      include_dir: _includes
+  #- macros:
+  #    include_dir: _includes
   - glightbox:
       skip_classes:
          - exclude-glightbox
