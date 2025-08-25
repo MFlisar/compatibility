@@ -1,8 +1,7 @@
 ---
 icon: material/information-variant
+title: Compatibility
 ---
-
-## Compatibility
 
 ALL my main libraries have been updated to support following KMP targets:
 
@@ -12,11 +11,11 @@ ALL my main libraries have been updated to support following KMP targets:
 * `macos`
 * `wasm`
 
-### Binary Compatibility
+## Binary Compatibility
 
 I do try to keep versions binary compatible as long as possible now - non major versions will be binary compatible!
 
-### Libraries
+## Libraries
 
 Here are the minimum versions that do work with each other without problems.
 
@@ -46,12 +45,13 @@ Here are the minimum versions that do work with each other without problems.
 | [ComposeDialogs](https://mflisar.github.io/ComposeDialogs/) | `3.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedialogs/core) | - `dialog-billing` artifact depends on `KotBilling` |
 | [ComposePreferences](https://mflisar.github.io/ComposePreferences/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composepreferences/core) | - depends on `ComposeDialogs`<br/>- `kotpreferences` artifact depends on `KotPreferences` |
 
-> [!IMPORTANT]  
-> Above mentioned versions are the **minimum versions** that are compatible with each other. From there on I try to make new versions **binary compatible** - so any newer versions will work with each other without problems.
+!!! note
 
-## NOTES
+	Above mentioned versions are the **minimum versions** that are compatible with each other. From there on I try to make new versions **binary compatible** - so any newer versions will work with each other without problems.
 
-### Experimental
+# Notes
+
+## Experimental
 
 **Why do some libraries use experimental functions?**
 
