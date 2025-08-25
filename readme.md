@@ -7,7 +7,7 @@ ALL my main libraries have been updated to support following KMP targets:
 * `ios`
 * `macos`
 * `wasm`
-* 
+
 ### Libraries
 
 Here are the minimum versions that do work with each other without problems.
