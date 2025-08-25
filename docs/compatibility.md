@@ -1,6 +1,3 @@
----
----
-
 ALL my main libraries have been updated to support following KMP targets:
 
 * `jvm`
