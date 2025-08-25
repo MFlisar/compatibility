@@ -20,25 +20,25 @@ Here are the minimum versions that do work with each other without problems.
 
 | Library  | Minimum Version | Latest Version | Info |
 | - | - | - | - |
-| [CacheFileProvider](https://mflisar.github.io/CacheFileProvider/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library) | - |
+| [CacheFileProvider](https://mflisar.github.io/CacheFileProvider/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library) | |
 | [FeedbackManager](https://mflisar.github.io/FeedbackManager/) | `3.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.feedbackmanager/library) | depends on `CacheFileProvider` |
 
 **Libraries**
 
 | Library  | Minimum Version | Latest Version | Info |
 | - | - | - | - |
-| [KotBilling](https://mflisar.github.io/KotBilling/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotbilling/library) | - |
-| [KotPreferences](https://mflisar.github.io/KotPreferences/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotpreferences/core) | - |
-| [Lumberjack](https://mflisar.github.io/Lumberjack/) | `9.0.0`| ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core) | `extension-feedback` artifact depends on `FeedbackManager` |
+| [KotBilling](https://mflisar.github.io/KotBilling/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotbilling/library) | |
+| [KotPreferences](https://mflisar.github.io/KotPreferences/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotpreferences/core) | |
+| [Lumberjack](https://mflisar.github.io/Lumberjack/) | `9.0.0`| ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core) | - `extension-feedback` artifact depends on `FeedbackManager` |
 
 **Compose**
 
 | Library  | Minimum Version  | Latest Version | Info |
 | - | - | - | - |
-| [ComposeColors](https://mflisar.github.io/ComposeColors/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/core) | - |
+| [ComposeColors](https://mflisar.github.io/ComposeColors/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/core) | |
 | [ComposeDebugDrawer](https://mflisar.github.io/ComposeDebugDrawer/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core) | - `plugin-kotpreferences` artifact depends on `KotPreferences`<br/>- `plugin-lumberjack` artifact depends on `Lumberjack` |
-| [ComposeChangelog](https://mflisar.github.io/ComposeChangelog/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composechangelog/core) | `statesaver-kotpreferences` artifact depends on `KotPreferences` |
-| [ComposeThemer](https://mflisar.github.io/ComposeThemer/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composethemer/core) | - |
+| [ComposeChangelog](https://mflisar.github.io/ComposeChangelog/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composechangelog/core) | - `statesaver-kotpreferences` artifact depends on `KotPreferences` |
+| [ComposeThemer](https://mflisar.github.io/ComposeThemer/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composethemer/core) | |
 | [ComposeDialogs](https://mflisar.github.io/ComposeDialogs/) | `3.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedialogs/core) | `dialog-billing` artifact depends on `KotBilling` |
 | [ComposePreferences](https://mflisar.github.io/ComposePreferences/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composepreferences/core) | |
 
