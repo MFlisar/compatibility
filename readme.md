@@ -1,6 +1,6 @@
 ## COMPATIBILITY
 
-Recently ALL my main libraries have been updated to support following KMP targets:
+ALL my main libraries have been updated to support following KMP targets:
 
 * `jvm`
 * `android`
@@ -11,9 +11,9 @@ Recently ALL my main libraries have been updated to support following KMP target
 > [!IMPORTANT]  
 > The side effect is, that it was nearly impossible to keep the libraries binary compatible.
 
-Beginning from **08/2025** I will update all libraries step by step and mark them initially as pre releases. As soon as all are updated I will remove the `pre release` mark. From then on I will try my best to keep everything binary compatible. The list below contains all libraries that are done and published:
-
 ### Libraries
+
+Here are the minimum versions that do work with each other without problems.
 
 **Core Libraries**
 
@@ -33,11 +33,10 @@ Beginning from **08/2025** I will update all libraries step by step and mark the
 | ComposeDialogs | `2.3.0` | https://mflisar.github.io/ComposeDialogs/ |
 | ComposePreferences | `1.3.0` | https://mflisar.github.io/ComposePreferences/ |
 
-Above mentioned versions are the **minimum versions** that are compatible with each other.
+> [!IMPORTANT]  
+> Above mentioned versions are the **minimum versions** that are compatible with each other.
 
-### FINISH DATE
-
-My goal is to get this done in the next 2 weeks at most!
+## NOTES
 
 ### Experimental
 
