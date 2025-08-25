@@ -35,7 +35,7 @@ Here are the minimum versions that do work with each other without problems.
 
 | Library  | Minimum Version | Link | Latest Version |
 | - | - | - | - |
-| ComposeColors | `1.0.0`  | https://mflisar.github.io/ComposeColors/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/coree) |
+| ComposeColors | `1.0.0`  | https://mflisar.github.io/ComposeColors/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/core) |
 | ComposeDebugDrawer | `2.0.0`  | https://mflisar.github.io/ComposeDebugDrawer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core) |
 | ComposeChangelog | `2.0.0` | https://mflisar.github.io/ComposeChangelog/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composechangelog/core) |
 | ComposeThemer | `1.0.0` | https://mflisar.github.io/ComposeThemer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composethemer/core) |
