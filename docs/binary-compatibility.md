@@ -8,4 +8,4 @@ I do try to keep versions **binary compatible** as long as possible now. If a no
 
 !!! note
 
-	**Minor versions** are binary compatible.
+	All **minor versions** are binary compatible.

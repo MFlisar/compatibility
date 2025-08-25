@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-ALL my main libraries have been updated to support following KMP targets:
+ALL my main libraries have been updated to support following KMP targets (if possible):
 
 * `jvm`
 * `android`
@@ -45,8 +45,6 @@ Here are the minimum versions that do work with each other without problems.
 !!! note
 
 	Above mentioned versions are the **minimum versions** that are compatible with each other. From there on I try to make new versions **binary compatible** - so any newer versions will work with each other without problems.
-
-# Notes
 
 ## Experimental
 
