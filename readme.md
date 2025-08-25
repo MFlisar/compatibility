@@ -19,14 +19,14 @@ Here are the minimum versions that do work with each other without problems.
 **UTILITIES**
 
 | Library  | Minimum Version | Latest Version | Info |
-| - | - | - | - | - |
+| - | - | - | - |
 | [CacheFileProvider](https://mflisar.github.io/CacheFileProvider/) | `1.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library) | - |
 | [FeedbackManager](https://mflisar.github.io/FeedbackManager/) | `3.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.feedbackmanager/library) | does depend on `CacheFileProvider` |
 
 **Libraries**
 
 | Library  | Minimum Version | Latest Version | Info |
-| - | - | - | - | - |
+| - | - | - | - |
 | [KotBilling](https://mflisar.github.io/KotBilling/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotbilling/library) | - |
 | [KotPreferences](https://mflisar.github.io/KotPreferences/) | `2.0.0` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotpreferences/core) | - |
 | [Lumberjack](https://mflisar.github.io/Lumberjack/) | `8.0.0`| ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core) | feedback module depends on `FeedbackManager' |
