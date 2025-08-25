@@ -21,26 +21,26 @@ Here are the minimum versions that do work with each other without problems.
 | Library  | Version | Link | Latest Version |
 | - | - | - | - |
 | CacheFileProvider | `1.0.0`  | https://mflisar.github.io/CacheFileProvider/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.cachefileprovider/library) |
-| FeedbackManager | `3.0.0`  | https://mflisar.github.io/FeedbackManager/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.feedbackmanager/library?color=blue) |
+| FeedbackManager | `3.0.0`  | https://mflisar.github.io/FeedbackManager/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.feedbackmanager/library) |
 
 **Libraries**
 
 | Library  | Minimum Version | Link | Latest Version |
 | - | - | - | - |
-| KotBilling | `2.0.0`  | https://mflisar.github.io/KotBilling/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotbilling/library?color=blue) |
-| KotPreferences | `2.0.0`  | https://mflisar.github.io/KotPreferences/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotpreferences/core?color=blue) |
-| Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core?color=blue) |
+| KotBilling | `2.0.0`  | https://mflisar.github.io/KotBilling/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotbilling/library) |
+| KotPreferences | `2.0.0`  | https://mflisar.github.io/KotPreferences/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kotpreferences/core) |
+| Lumberjack | `8.0.0`  | https://mflisar.github.io/Lumberjack/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.lumberjack/core) |
 
 **Compose**
 
 | Library  | Version | Link | Latest Version |
 | - | - | - | - |
-| ComposeColors | `1.0.0`  | https://mflisar.github.io/ComposeColors/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/core?color=blue) |
-| ComposeDebugDrawer | `2.0.0`  | https://mflisar.github.io/ComposeDebugDrawer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core?color=blue) |
-| ComposeChangelog | `2.0.0` | https://mflisar.github.io/ComposeChangelog/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composechangelog/core?color=blue) |
-| ComposeThemer | `1.0.0` | https://mflisar.github.io/ComposeThemer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composethemer/core?color=blue) |
-| ComposeDialogs | `3.0.0` | https://mflisar.github.io/ComposeDialogs/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedialogs/core?color=blue) |
-| ComposePreferences | `2.0.0` | https://mflisar.github.io/ComposePreferences/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composepreferences/core?color=blue) |
+| ComposeColors | `1.0.0`  | https://mflisar.github.io/ComposeColors/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composecolors/coree) |
+| ComposeDebugDrawer | `2.0.0`  | https://mflisar.github.io/ComposeDebugDrawer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedebugdrawer/core) |
+| ComposeChangelog | `2.0.0` | https://mflisar.github.io/ComposeChangelog/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composechangelog/core) |
+| ComposeThemer | `1.0.0` | https://mflisar.github.io/ComposeThemer/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composethemer/core) |
+| ComposeDialogs | `3.0.0` | https://mflisar.github.io/ComposeDialogs/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composedialogs/core) |
+| ComposePreferences | `2.0.0` | https://mflisar.github.io/ComposePreferences/ | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.composepreferences/core) |
 
 > [!IMPORTANT]  
 > Above mentioned versions are the **minimum versions** that are compatible with each other. From there on I try to make new versions **binary compatible** - so any newer versions will work with each other without problems.
