@@ -56,21 +56,11 @@ Mostly I do use `androidx.compose.ui.backhandler.BackHandler` and the the `kotli
 
 ## Unofficial Libraries
 
-| Library  | Minimum Version | Latest Version | Info |
-| - | - | - | - |
-| [kmp-parcelize](https://github.com/MFlisar/kmp-parcelize) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.parcelize/library) | |
-| [kmp-library](https://mflisar.github.io/kmp-library/) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kmp-library/docs) | |
-| [kmp-democomposables](https://mflisar.github.io/kmp-demo-composables/) | `-` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.democomposables/library) | |
-| [Toolbox](https://mflisar.github.io/toolbox/) | `-` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.toolbox/core) | |
+??? info "Unofficial Libraries"
 
-#### `kmp-parcelize` and `kmp-library`
-
-`kmp-parcelize` and `kmp-library` are used internally in my libraries. The `kmp-parcelize` library offers kmp compatible parcelize annotations that do map to the android parcelize ones on android and to "empty implementations" on other platforms. The `kmp-library` library is just a utility for the gradle setups.
-
-#### `kmp-democomposables`
-
-The `kmp-democomposables` library are just used for library demos, they are not meant for any other public use.
-
-#### `Toolbox`
-
-The `Toolbox` library is my own library for my personal use (it's biased). It offers A LOT like a whole base app for a kmp project, a table class and many reusable UI elements.
+	| Library  | Minimum Version | Latest Version | Info |
+	| - | - | - | - |
+	| [kmp-parcelize](https://github.com/MFlisar/kmp-parcelize) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.parcelize/library) | used internally in my libraries - it offers kmp compatible parcelize annotations that do map to the android parcelize ones on android and to "empty implementations" on other platforms |
+	| [kmp-library](https://mflisar.github.io/kmp-library/) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kmp-library/docs) | just a utility for the gradle setups |
+	| [kmp-democomposables](https://mflisar.github.io/kmp-demo-composables/) | `-` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.democomposables/library) | just used for library demos, they are not meant for any other public use |
+	| [Toolbox](https://mflisar.github.io/toolbox/) | `-` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.toolbox/core) | this is for my personal use - it offers A LOT like a whole base app for a kmp project that renders on all platforms differently, a table class, many reusable UI elements and more... |
