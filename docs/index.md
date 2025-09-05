@@ -65,7 +65,7 @@ Mostly I do use `androidx.compose.ui.backhandler.BackHandler` and the the `kotli
 
 #### `kmp-parcelize` and `kmp-library`
 
-`kmp-parcelize` and `kmp-library` are used internally in my libraries. The parcelize library offers kmp compatible parcelize annotations that do map to the android parcelize ones on android and to "empty implementations" on other platforms. The library library is just a utility for the gradle setups.
+`kmp-parcelize` and `kmp-library` are used internally in my libraries. The `kmp-parcelize` library offers kmp compatible parcelize annotations that do map to the android parcelize ones on android and to "empty implementations" on other platforms. The `kmp-library` library is just a utility for the gradle setups.
 
 #### `kmp-democomposables`
 
