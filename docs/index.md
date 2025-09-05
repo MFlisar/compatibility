@@ -58,7 +58,7 @@ Mostly I do use `androidx.compose.ui.backhandler.BackHandler` and the the `kotli
 
 | Library  | Minimum Version | Latest Version | Info |
 | - | - | - | - |
-| [kmp-parcelize](https://github.com/MFlisar/kmp-parcelize) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kmp-parcelize/library) | |
+| [kmp-parcelize](https://github.com/MFlisar/kmp-parcelize) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.parcelize/library) | |
 | [kmp-library](https://mflisar.github.io/kmp-library/) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kmp-library/docs) | |
 | [kmp-democomposables](https://mflisar.github.io/kmp-demo-composables/) | `-` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.democomposables/library) | |
 | [Toolbox](https://mflisar.github.io/toolbox/) | `-` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.toolbox/core) | |
