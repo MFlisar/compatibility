@@ -53,3 +53,24 @@ Here are the minimum versions that do work with each other without problems.
 **Why do some libraries use experimental functions?**
 
 Mostly I do use `androidx.compose.ui.backhandler.BackHandler` and the the `kotlinx.datetime.Clock` class. Both are currently still marked as experimental. I need both to support all the platforms so I do use those...
+
+## Unofficial Libraries
+
+| Library  | Minimum Version | Latest Version | Info |
+| - | - | - | - |
+| [kmp-parcelize](https://github.com/MFlisar/kmp-parcelize) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kmp-parcelize/library) | |
+| [kmp-library](https://mflisar.github.io/kmp-library/) | `ALL` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.kmp-library/docs) | |
+| [kmp-democomposables](https://mflisar.github.io/kmp-demo-composables/) | `-` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.democomposables/library) | |
+| [Toolbox](https://mflisar.github.io/toolbox/) | `-` | ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.mflisar.toolbox/core) | |
+
+#### `kmp-parcelize` and `kmp-library`
+
+`kmp-parcelize` and `kmp-library` are used internally in my libraries. The parcelize library offers kmp compatible parcelize annotations that do map to the android parcelize ones on android and to "empty implementations" on other platforms. The library library is just a utility for the gradle setups.
+
+#### `kmp-democomposables`
+
+The `kmp-democomposables` library are just used for library demos, they are not meant for any other public use.
+
+#### `Toolbox`
+
+The `Toolbox` library is my own library for my personal use (it's biased). It offers A LOT like a whole base app for a kmp project, a table class and many reusable UI elements.
